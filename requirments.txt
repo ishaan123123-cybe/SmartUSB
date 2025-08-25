@@ -1,0 +1,9 @@
+Usage Requirements
+
+You need at least 1 USB drive with a minimum of 1 MB free space to run this software.
+
+While 300 KB free space might also work, 1 MB is strongly recommended for reliable performance.
+
+This software runs only on Windows PCs.
+
+Please make sure your system meets these requirements before use.
